@@ -1,3 +1,10 @@
-style .headings{
-    color:red
+.headings{
+    background-color: burlywood;
+    font-family: "system-ui", -apple-system;
+}
+.relative_links{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: bisque;
 }
