@@ -7,7 +7,7 @@
 .relative_links1, .relative_links2, .relative_links3 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 10px;
-    border: 2px solid burlywood;
+    border: 2px solid rgb(230, 207, 177);
     margin: 20px;
 }
 
@@ -16,7 +16,7 @@
 }
 
 .relative_links3 {
-    margin: 15px;
+    margin: 35px;
 }
 
 body { 
@@ -29,12 +29,34 @@ body {
     border: 2px solid black;
 }
 
+.headings {
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+#hamburger-picture {
+    position: absolute;
+    top: 84px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    width: 327px;
+}
+
 .relative_links {
-    margin-rig
+    margin: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .p_text {
     font-family: sans-serif;
     padding-left: 40px;
     text-indent: -40px;
+}
+
+.headingJump {
+    margin-top: 220px;
 }
